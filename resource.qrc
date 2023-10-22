@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/bird_down.png</file>
+        <file>imgs/bird_middle.png</file>
+        <file>imgs/bird_up.png</file>
+        <file>imgs/sky.jpg</file>
+        <file>imgs/sky.png</file>
+        <file>imgs/pillar.png</file>
+        <file>imgs/game_over.png</file>
+        <file>imgs/sky2.jpg</file>
+        <file>imgs/sky3.jpg</file>
+        <file>imgs/sky4.jpg</file>
+        <file>imgs/sky5.jpg</file>
+        <file>imgs/sky6.jpg</file>
+        <file>imgs/sky7.jpg</file>
+        <file>imgs/sky8.jpg</file>
+        <file>imgs/sky9.jpg</file>
+        <file>sounds/bg_1.mp3</file>
+        <file>sounds/bg_2.mp3</file>
+    </qresource>
+</RCC>
